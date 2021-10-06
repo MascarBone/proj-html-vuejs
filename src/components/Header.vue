@@ -11,16 +11,22 @@
                 <Icons/>
             </div>
       </div>
-      <div class="row">
-            <Logoheader />
-
-            <Category />
-
-            <Searchbar />
-
-            <Plan />
-
-            <Login />
+      <div class="row header-bot">
+            <div class="col-auto">
+                <Logoheader />
+            </div>
+            <div class="col-auto">
+                <Category />
+            </div>
+            <div class="col">
+                <Searchbar />
+            </div>
+            <div class="col-auto">
+                <Plans />
+            </div>
+            <div class="col-auto">
+                <Login />
+            </div>
       </div>
   </div>
 </template>
@@ -32,7 +38,7 @@ import Icons from './Header/Icons.vue';
 import Logoheader from './Header/Logoheader.vue';
 import Category from './Header/Category.vue';
 import Searchbar from './Header/Searchbar.vue';
-import Plan from './Header/Plan.vue';
+import Plans from './Header/Plans.vue';
 import Login from './Header/Login.vue';
 
 export default {
@@ -45,7 +51,7 @@ export default {
         Logoheader,
         Category,
         Searchbar,
-        Plan,
+        Plans,
         Login,
     }
 
@@ -53,5 +59,13 @@ export default {
 </script>
 
 <style scoped lang="scss">
+@import '../style/variables.scss';
 
+    .row {
+        align-items: center;
+    }
+    .header-top {
+        padding: 20px 0;
+        color: $venus;
+    }
 </style>
