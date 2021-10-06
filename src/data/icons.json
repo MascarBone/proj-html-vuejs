@@ -1,0 +1,9 @@
+[
+    {"id":    "facebook"    ,   "src": "fab fa-facebook"},
+    {"id":    "twitter"     ,   "src": "fab fa-twitter"},
+    {"id":    "instragram"  ,   "src": "fab fa-instagram"},
+    {"id":    "linkedin"    ,   "src": "fab fa-linkedin"},
+    {"id":    "googleplus"  ,   "src": "fab fa-google-plus-g"},
+    {"id":    "youtube"     ,   "src": "fab fa-youtube"}
+
+]
