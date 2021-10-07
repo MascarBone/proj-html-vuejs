@@ -37,172 +37,189 @@
           </div>
           
           <div class="row">
-            <div class="col-2 thumb">
-              <div class="thumb_img">
-                <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
-              </div>
-              <div class="thumb_text">
-                <div class="thumb_text_top">
-                  <h6>Development ></h6>
-                  <p>random text for now</p>
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
                 </div>
-                
-                <hr>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Development ></h6>
+                    <p>The Complete iOS 10 & Swift 3 Developer Course</p>
+                  </div>
+                  
+                  <hr>
 
-                <div class="thumb_text_bot">
-                  <div class="thumb_stars">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
-                  </div>
-                  <div>
-                    <p class="thumb_price">$199.99</p>
-                    <p class="thumb_discount">$100</p>
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$199.99</p>
+                      <p class="thumb_discount">$100</p>
+                    </div>
                   </div>
                 </div>
               </div>
+              
             </div>
 
-            <div class="col-2 thumb">
-              <div class="thumb_img">
-                <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
-              </div>
-              <div class="thumb_text">
-                <div class="thumb_text_top">
-                  <h6>Development ></h6>
-                  <p>random text for now</p>
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/webdesign-544x322.jpg" alt="Swift3">
                 </div>
-                
-                <hr>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Development ></h6>
+                    <p>Web Design for Beginners: Real World Coding in HTML & CSS</p>
+                  </div>
+                  
+                  <hr>
 
-                <div class="thumb_text_bot">
-                  <div class="thumb_stars">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
-                  </div>
-                  <div>
-                    <p class="thumb_price">$199.99</p>
-                    <p class="thumb_discount">$100</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            
-            <div class="col-2 thumb">
-              <div class="thumb_img">
-                <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
-              </div>
-              <div class="thumb_text">
-                <div class="thumb_text_top">
-                  <h6>Development ></h6>
-                  <p>random text for now</p>
-                </div>
-                
-                <hr>
-
-                <div class="thumb_text_bot">
-                  <div class="thumb_stars">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
-                  </div>
-                  <div>
-                    <p class="thumb_price">$199.99</p>
-                    <p class="thumb_discount">$100</p>
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$129.99</p>
+                      <p class="thumb_discount">$65</p>
+                    </div>
                   </div>
                 </div>
               </div>
+              
             </div>
             
-            <div class="col-2 thumb">
-              <div class="thumb_img">
-                <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
-              </div>
-              <div class="thumb_text">
-                <div class="thumb_text_top">
-                  <h6>Development ></h6>
-                  <p>random text for now</p>
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/github-544x322.jpg" alt="Swift3">
                 </div>
-                
-                <hr>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Development ></h6>
+                    <p>GitHub Ultimate: Master Git and GitHub - Beginner to Expert</p>
+                  </div>
+                  
+                  <hr>
 
-                <div class="thumb_text_bot">
-                  <div class="thumb_stars">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
-                  </div>
-                  <div>
-                    <p class="thumb_price">$199.99</p>
-                    <p class="thumb_discount">$100</p>
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$99.99</p>
+                      <p class="thumb_discount">$50</p>
+                    </div>
                   </div>
                 </div>
               </div>
+              
             </div>
             
-            <div class="col-2 thumb">
-              <div class="thumb_img">
-                <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
-              </div>
-              <div class="thumb_text">
-                <div class="thumb_text_top">
-                  <h6>Development ></h6>
-                  <p>random text for now</p>
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/ios11swift-544x322.jpg" alt="Swift3">
                 </div>
-                
-                <hr>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Development ></h6>
+                    <p>The Complete iOS 11 & Swift Developer Course - Build 20 Apps</p>
+                  </div>
+                  
+                  <hr>
 
-                <div class="thumb_text_bot">
-                  <div class="thumb_stars">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
-                  </div>
-                  <div>
-                    <p class="thumb_price">$199.99</p>
-                    <p class="thumb_discount">$100</p>
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$199.99</p>
+                      <p class="thumb_discount">$100</p>
+                    </div>
                   </div>
                 </div>
               </div>
+              
             </div>
             
-            <div class="col-2 thumb">
-              <div class="thumb_img">
-                <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
-              </div>
-              <div class="thumb_text">
-                <div class="thumb_text_top">
-                  <h6>Development ></h6>
-                  <p>random text for now</p>
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/java-544x322.jpg" alt="Swift3">
                 </div>
-                
-                <hr>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Development ></h6>
+                    <p>Android Java Masterclass - Become an App Developer</p>
+                  </div>
+                  
+                  <hr>
 
-                <div class="thumb_text_bot">
-                  <div class="thumb_stars">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
-                    <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$99.99</p>
+                      <p class="thumb_discount">$50</p>
+                    </div>
                   </div>
-                  <div>
-                    <p class="thumb_price">$199.99</p>
-                    <p class="thumb_discount">$100</p>
+                </div>
+              </div>              
+            </div>
+            
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/xamarin-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Development ></h6>
+                    <p>Xamarin Forms: Build Native Cross-platform Apps with C#</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$189.99</p>
+                      <p class="thumb_discount">$95</p>
+                    </div>
                   </div>
                 </div>
               </div>
+              
             </div>
           </div>
         </div>
@@ -472,12 +489,16 @@ p {
 }
 
 .thumb {
+  height: 100%;
+  border: 1px solid $grey;
+
   h6,
   .thumb_price {
     color: grey;
   }
   p {
     margin: 0;
+    font-size: 1.1rem;
   }
 }
 .thumb_img {
@@ -489,7 +510,6 @@ p {
 .thumb_text {
   padding: 5px 10px;
   background-color: $white;
-  border: 1px solid $grey;
 }
 .thumb_text_bot {
   display: flex;
