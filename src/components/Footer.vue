@@ -68,12 +68,40 @@ export default {
       },
 
       socials: {
-        heading: 'Social Network',
+        heading: 'Social Networks',
         list:[
           {
             id:'facebook',
-            src:'Sed nec felis pellentesque, lacinia dui sed, ultricies sapien. Pellentesque orci lectus, consectetur vel, rutrum eu ipsum. Mauris accumsan eros libero posuere vulputate.',
-          } 
+            src:'fab fa-facebook',
+          },
+          {
+            id:'instagram',
+            src:'fab fa-instagram',
+          },
+          {
+            id:'linkedin',
+            src:'fab fa-linkedin',
+          },
+          {
+            id:'pinterest',
+            src:'fab fa-pinterest',
+          },
+          {
+            id:'twitter',
+            src:'fab fa-twitter',
+          },
+          {
+            id:'baste',
+            src:'fab fa-dribbble',
+          },
+          {
+            id:'googleplus',
+            src:'fab fa-google-plus',
+          },
+          {
+            id:'skype',
+            src:'fab fa-skype',
+          },
         ],
       },
 

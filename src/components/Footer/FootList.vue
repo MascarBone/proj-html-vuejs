@@ -19,8 +19,8 @@ export default {
 </script>
 
 <style scoped lang="scss">
-    h3 {
-        text-transform: uppercase;
-    }
+h3 {
+    text-transform: uppercase;
+}
 
 </style>
