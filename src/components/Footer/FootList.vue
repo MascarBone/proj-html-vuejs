@@ -1,6 +1,6 @@
 <template>
   <div>
-        <h3>{{info.heading}}</h3>
+        <h5>{{info.heading}}</h5>
         <p v-for="(el, i) in info.list" :key="i">
             {{el}}
         </p>
@@ -19,7 +19,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-h3 {
+h5 {
     text-transform: uppercase;
 }
 

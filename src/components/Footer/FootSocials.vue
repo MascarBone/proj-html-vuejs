@@ -1,6 +1,6 @@
 <template>
   <div class="row gy-3">
-      <h3 class="col-12">{{info.heading}}</h3>
+      <h5 class="col-12">{{info.heading}}</h5>
       <div v-for="el in info.list" :key="el.id" class="col-3">
           <div class="box-icon" :style="{background:el.color}">
               <i :class="el.src"></i>
@@ -22,7 +22,7 @@ export default {
 
 <style scoped lang="scss">
 
-h3 {
+h5 {
     text-transform: uppercase;
 }
 .box-icon {
