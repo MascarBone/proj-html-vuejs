@@ -16,7 +16,7 @@
 
       <!-- Jumbtron with the red left side and the img on the right -->
       
-        <div class="bg-color-amaranth mb-5"> 
+        <div class="bg-color-amaranth"> 
           <section class="jumbotron jumbotron-affiliate">       
             <div class="container">
               <div class="row">
@@ -34,9 +34,12 @@
         <div class="container">
           <div class="row">
             <h4 class="col-12">Popular Development Courses</h4>
+          </div>
+          
+          <div class="row">
             <div class="col-2 thumb">
               <div class="thumb_img">
-                <img src="" alt="">
+                <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
               </div>
               <div class="thumb_text">
                 <div class="thumb_text_top">
@@ -47,10 +50,156 @@
                 <hr>
 
                 <div class="thumb_text_bot">
-                  <img src="" alt="*">
+                  <div class="thumb_stars">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                  </div>
                   <div>
-                    <p class="thumb_text_bot-price">$199.99</p>
-                    <p class="thumb_text_bot-discount">$100</p>
+                    <p class="thumb_price">$199.99</p>
+                    <p class="thumb_discount">$100</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-2 thumb">
+              <div class="thumb_img">
+                <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
+              </div>
+              <div class="thumb_text">
+                <div class="thumb_text_top">
+                  <h6>Development ></h6>
+                  <p>random text for now</p>
+                </div>
+                
+                <hr>
+
+                <div class="thumb_text_bot">
+                  <div class="thumb_stars">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                  </div>
+                  <div>
+                    <p class="thumb_price">$199.99</p>
+                    <p class="thumb_discount">$100</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="col-2 thumb">
+              <div class="thumb_img">
+                <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
+              </div>
+              <div class="thumb_text">
+                <div class="thumb_text_top">
+                  <h6>Development ></h6>
+                  <p>random text for now</p>
+                </div>
+                
+                <hr>
+
+                <div class="thumb_text_bot">
+                  <div class="thumb_stars">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                  </div>
+                  <div>
+                    <p class="thumb_price">$199.99</p>
+                    <p class="thumb_discount">$100</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="col-2 thumb">
+              <div class="thumb_img">
+                <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
+              </div>
+              <div class="thumb_text">
+                <div class="thumb_text_top">
+                  <h6>Development ></h6>
+                  <p>random text for now</p>
+                </div>
+                
+                <hr>
+
+                <div class="thumb_text_bot">
+                  <div class="thumb_stars">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                  </div>
+                  <div>
+                    <p class="thumb_price">$199.99</p>
+                    <p class="thumb_discount">$100</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="col-2 thumb">
+              <div class="thumb_img">
+                <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
+              </div>
+              <div class="thumb_text">
+                <div class="thumb_text_top">
+                  <h6>Development ></h6>
+                  <p>random text for now</p>
+                </div>
+                
+                <hr>
+
+                <div class="thumb_text_bot">
+                  <div class="thumb_stars">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                  </div>
+                  <div>
+                    <p class="thumb_price">$199.99</p>
+                    <p class="thumb_discount">$100</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="col-2 thumb">
+              <div class="thumb_img">
+                <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
+              </div>
+              <div class="thumb_text">
+                <div class="thumb_text_top">
+                  <h6>Development ></h6>
+                  <p>random text for now</p>
+                </div>
+                
+                <hr>
+
+                <div class="thumb_text_bot">
+                  <div class="thumb_stars">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                    <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                  </div>
+                  <div>
+                    <p class="thumb_price">$199.99</p>
+                    <p class="thumb_discount">$100</p>
                   </div>
                 </div>
               </div>
@@ -318,5 +467,40 @@ p {
   }
 }
 
+.thumbnails {
+  padding: 100px 0;
+}
+
+.thumb {
+  h6,
+  .thumb_price {
+    color: grey;
+  }
+  p {
+    margin: 0;
+  }
+}
+.thumb_img {
+  
+    img {
+    width: 100%;
+    }
+}
+.thumb_text {
+  padding: 5px 10px;
+  background-color: $white;
+  border: 1px solid $grey;
+}
+.thumb_text_bot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  
+  .thumb_price {
+    text-decoration: line-through;
+
+  }
+}
 
 </style>
