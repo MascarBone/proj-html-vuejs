@@ -1,34 +1,43 @@
 <template>
-  <div class="container">
-      <div class="row header-top">
-            <div class="col">
-                <Languages />
+    <header>
+        <div class="container">
+            <div class="row header-top">
+                <div class="col">
+                    <Languages />
+                </div>
+                <div class="col-auto">
+                    <Info />
+                </div>
+                <div class="col-auto">
+                    <Icons/>
+                </div>
             </div>
-            <div class="col-auto">
-                <Info />
+        </div>
+
+        <div>
+            <hr>
+        </div>
+
+        <div class="container">
+            <div class="row header-bot">
+                <div class="col-auto">
+                    <Logoheader />
+                </div>
+                <div class="col-auto">
+                    <Category />
+                </div>
+                <div class="col">
+                    <Searchbar />
+                </div>
+                <div class="col-auto">
+                    <Plans />
+                </div>
+                <div class="col-auto">
+                    <Login />
+                </div>
             </div>
-            <div class="col-auto">
-                <Icons/>
-            </div>
-      </div>
-      <div class="row header-bot">
-            <div class="col-auto">
-                <Logoheader />
-            </div>
-            <div class="col-auto">
-                <Category />
-            </div>
-            <div class="col">
-                <Searchbar />
-            </div>
-            <div class="col-auto">
-                <Plans />
-            </div>
-            <div class="col-auto">
-                <Login />
-            </div>
-      </div>
-  </div>
+        </div>
+    </header>
 </template>
 
 <script>
@@ -65,7 +74,7 @@ export default {
         align-items: center;
     }
     .header-top {
-        padding: 20px 0;
+        padding-top:  20px;
         color: $venus;
     }
 </style>
