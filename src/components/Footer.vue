@@ -73,34 +73,42 @@ export default {
           {
             id:'facebook',
             src:'fab fa-facebook',
+            color: '#3b5998',
           },
           {
             id:'instagram',
             src:'fab fa-instagram',
+            color: '#c32aa3',
           },
           {
             id:'linkedin',
             src:'fab fa-linkedin',
+            color: '#0077b5',
           },
           {
             id:'pinterest',
             src:'fab fa-pinterest',
+            color: '#bd081c',
           },
           {
             id:'twitter',
             src:'fab fa-twitter',
+            color: '#1da1f2',
           },
           {
             id:'baste',
             src:'fab fa-dribbble',
+            color: '#ea4c89',
           },
           {
             id:'googleplus',
             src:'fab fa-google-plus',
+            color: '#db4437',
           },
           {
             id:'skype',
             src:'fab fa-skype',
+            color: '#3bc1f3',
           },
         ],
       },
