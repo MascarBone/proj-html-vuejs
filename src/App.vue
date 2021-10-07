@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Header />
+    <Header class="mb-3" />
     <Main />
     <Footer />
   </div>
