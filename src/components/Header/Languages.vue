@@ -34,10 +34,11 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 
     select {
         background-color: none;
         border: none;
+        
     }
 </style>

@@ -70,11 +70,13 @@ export default {
 <style scoped lang="scss">
 @import '../style/variables.scss';
 
+    header {
+        color: $venus;
+    }
     .row {
         align-items: center;
     }
     .header-top {
-        padding-top:  20px;
-        color: $venus;
+        padding-top:  20px;        
     }
 </style>

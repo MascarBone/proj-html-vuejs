@@ -330,8 +330,8 @@
                       <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
                     </div>
                     <div>
-                      <p class="thumb_price">$129.99</p>
-                      <p class="thumb_discount">$65</p>
+                      <p class="thumb_price">$199.99</p>
+                      <p class="thumb_discount">$100</p>
                     </div>
                   </div>
                 </div>
@@ -390,8 +390,8 @@
                       <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
                     </div>
                     <div>
-                      <p class="thumb_price">$129.99</p>
-                      <p class="thumb_discount">$65</p>
+                      <p class="thumb_price">$139.99</p>
+                      <p class="thumb_discount">$70</p>
                     </div>
                   </div>
                 </div>
@@ -420,8 +420,8 @@
                       <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
                     </div>
                     <div>
-                      <p class="thumb_price">$129.99</p>
-                      <p class="thumb_discount">$65</p>
+                      <p class="thumb_price d-none">$199.99</p>
+                      <p class="thumb_discount">$199.99</p>
                     </div>
                   </div>
                 </div>
@@ -450,8 +450,8 @@
                       <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
                     </div>
                     <div>
-                      <p class="thumb_price">$19.99</p>
-                      <p class="thumb_discount">$10</p>
+                      <p class="thumb_price">$89.99</p>
+                      <p class="thumb_discount">$45</p>
                     </div>
                   </div>
                 </div>
@@ -737,8 +737,8 @@
                       <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
                     </div>
                     <div>
-                      <p class="thumb_price">$129.99</p>
-                      <p class="thumb_discount">$65</p>
+                      <p class="thumb_price">$199.99</p>
+                      <p class="thumb_discount">$100</p>
                     </div>
                   </div>
                 </div>
@@ -797,8 +797,8 @@
                       <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
                     </div>
                     <div>
-                      <p class="thumb_price">$129.99</p>
-                      <p class="thumb_discount">$65</p>
+                      <p class="thumb_price">$139.99</p>
+                      <p class="thumb_discount">$70</p>
                     </div>
                   </div>
                 </div>
@@ -827,8 +827,8 @@
                       <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
                     </div>
                     <div>
-                      <p class="thumb_price">$129.99</p>
-                      <p class="thumb_discount">$65</p>
+                      <p class="thumb_price d-none">$199</p>
+                      <p class="thumb_discount">$199</p>
                     </div>
                   </div>
                 </div>
@@ -857,8 +857,8 @@
                       <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
                     </div>
                     <div>
-                      <p class="thumb_price">$129.99</p>
-                      <p class="thumb_discount">$65</p>
+                      <p class="thumb_price">$89.99</p>
+                      <p class="thumb_discount">$45</p>
                     </div>
                   </div>
                 </div>
@@ -957,6 +957,7 @@ h4 {
 }
 p {
     font-size: 1.2rem;
+    line-height: 1.2rem;
 }
 nav {
   
@@ -966,18 +967,7 @@ nav {
   }
 }
 
-.my_btn-primary {
-  background-color: $amaranth;
-  color: $white;
-  font-weight: bold;
-  text-transform: uppercase;
-  border: none;
-  border-radius: 50px;
-  padding: 15px 20px;
-}
-.my_btn-primary:hover {
-  background-color: #46c197;
-}
+
 .my_btn_arrow {
   padding: 10px 20px;
   background-color: $white;

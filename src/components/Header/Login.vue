@@ -5,7 +5,7 @@
       <span>{{logInfo.name}}</span>
     </div>
     <div class="signup me-4">
-      <a :href="btnInfo.link"><button>{{btnInfo.name}}</button></a>
+      <a :href="btnInfo.link"><button class="my_btn-primary">{{btnInfo.name}}</button></a>
     </div>
     <div>
       <i class="fas fa-cookie"></i>
@@ -36,7 +36,6 @@ export default {
 
 <style scoped lang="scss">
 @import '../../style/general.scss';
-@import '../../style/variables.scss';
 
 .wrap {
   @include flex-align-center;
@@ -47,17 +46,4 @@ export default {
   @include flex-align-center;
 }
 
-.signup {
-
-  button {
-    border: none;
-    border-radius: 50px;
-    background-color: $coral-red;
-    color: $white;
-    font-size: 1.2rem;
-    font-weight: 600;
-    padding: 15px 30px;
-    text-transform: uppercase;
-  }
-}
 </style>
