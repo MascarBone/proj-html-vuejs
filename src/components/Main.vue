@@ -250,28 +250,28 @@
           </div>
 
           <nav class="row justify-content-center">
-            <div class="col-auto">
-                <a href="">All Categories</a>
+            <div class="col-auto recent-courses-box selected">
+              <a href="">All Categories</a>
             </div>
-            <div class="col-auto">
+            <div class="col-auto recent-courses-box">
               <a href="">Business</a>
             </div>
-            <div class="col-auto">
+            <div class="col-auto recent-courses-box">
               <a href="">Design</a>
             </div>
-            <div class="col-auto">
+            <div class="col-auto recent-courses-box">
               <a href="">Development</a>
             </div>
-            <div class="col-auto">
+            <div class="col-auto recent-courses-box">
                 <a href="">All Categories</a>
             </div>
-            <div class="col-auto">
+            <div class="col-auto recent-courses-box">
               <a href="">Business</a>
             </div>
-            <div class="col-auto">
+            <div class="col-auto recent-courses-box">
               <a href="">Design</a>
             </div>
-            <div class="col-auto">
+            <div class="col-auto recent-courses-box">
               <a href="">Development</a>
             </div>
           </nav>
@@ -1087,6 +1087,20 @@ p {
     text-decoration: line-through;
 
   }
+}
+
+.recent-courses-box {
+  padding: 10px 20px;
+  border-radius: 50px;
+
+  a {
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: grey;
+  }
+}
+.recent-courses-box.selected {
+  background-color: $grey;
 }
 
 </style>
