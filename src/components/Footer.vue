@@ -17,6 +17,8 @@
       </div>
     </div>
 
+    <hr>
+
     <div class="container">
       <div class="row footer-bot align-items-center">
         <div class="col-auto">
