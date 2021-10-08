@@ -15,8 +15,22 @@
       </section>
 
       <!-- Jumbtron with the red left side and the img on the right -->
-      
-        <div class="bg-color-amaranth"> 
+      <section class="container-fluid"> 
+        <div class="row">
+          <div class="col-6 bg-color-amaranth"> 
+            <div class="jumbotron-affiliate-text">
+              <h2>Udemy Affiliate Sales</h2>
+              <p>Monetize your audience and attract new customers with Udemy!</p>
+            </div>
+          </div> 
+
+          <div class="col-6 p-0 jumbotron-affiliate">
+            <img src="..\assets\images\backgrounds\slide-1.jpg" alt="">
+          </div> 
+        </div>  
+      </section>
+
+        <!-- <div class="bg-color-amaranth"> 
           <section class="jumbotron jumbotron-affiliate">       
             <div class="container">
               <div class="row">
@@ -27,7 +41,7 @@
               </div>
             </div>
           </section>
-        </div>
+        </div> -->
 
       <!-- Thumbnails Popular Development -->
       <section class="thumbnails">
@@ -978,10 +992,6 @@ nav {
   background-color: $ebony-clay;
 }
 
-.jumbotron {
-  padding: 130px 0;
-}
-
 .top-nav {
   background-color: $ebony-clay;
 
@@ -990,16 +1000,25 @@ nav {
   }
 }
 
+.jumbotron {
+  padding: 130px 0;
+}
 .bg-color-amaranth{
   background-color: $amaranth;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0;
 }
-
-.jumbotron-affiliate {  
-  background-image: url('../assets/images/backgrounds/slide-1.jpg');
-  background-repeat: no-repeat;
-  background-position-x: right;
-  background-position-y: center;
+.jumbotron-affiliate {
+    
+  img {
+    min-width: 100%;
+  }
+}
+.jumbotron-affiliate-text {
   color: $white;
+  margin-right: 50px;
 }
 
 .jumbotron-learning {
