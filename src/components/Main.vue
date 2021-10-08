@@ -95,8 +95,7 @@
                     </div>
                   </div>
                 </div>
-              </div>
-              
+              </div>              
             </div>
             
             <div class="col-2">
@@ -277,11 +276,370 @@
             </div>
           </nav>
 
-          <div class="row">
-            <div class="col-2 thumb">
-              <!--  -->
+          <div class="row py-5 gy-3">
+
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Development ></h6>
+                    <p>The Complete iOS 10 & Swift 3 Developer Course</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$199.99</p>
+                      <p class="thumb_discount">$100</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
             </div>
+
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/css-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Design ></h6>
+                    <p>CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$129.99</p>
+                      <p class="thumb_discount">$65</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+            
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/webdesign-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Development ></h6>
+                    <p>Web Design for Beginners: Real World Coding in HTML & CSS</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$129.99</p>
+                      <p class="thumb_discount">$65</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+            
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/digitalcolor-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Google ></h6>
+                    <p>Digitally Painting Light and Color: Amateur to Master</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$129.99</p>
+                      <p class="thumb_discount">$65</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+            
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/draw1-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Arts & Crafts ></h6>
+                    <p>Become an Arabic Calligraphy Artist from Scratch</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$129.99</p>
+                      <p class="thumb_discount">$65</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+            
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/ninja-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Google ></h6>
+                    <p>Google Searching Ninja!</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$19.99</p>
+                      <p class="thumb_discount">$10</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/painting-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Arts & Crafts ></h6>
+                    <p>Foundations for Mastering Watercolor Painting</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$129.99</p>
+                      <p class="thumb_discount">$65</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/wines-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Food & Beverage ></h6>
+                    <p>Get Wine-Smart</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$49.99</p>
+                      <p class="thumb_discount">$25</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/pencils-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Arts & Crafts ></h6>
+                    <p>The Colored Pencil Drawing Course</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$34.99</p>
+                      <p class="thumb_discount">$18</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/realistic-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Arts & Crafts ></h6>
+                    <p>Paint Realistic Watercolor and Botanicals - STUDIO BASICS</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$69.99</p>
+                      <p class="thumb_discount">$35</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/brushstrokes-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Arts & Crafts ></h6>
+                    <p>Mastering Brushstrokes - Part 1</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$19.99</p>
+                      <p class="thumb_discount">$10</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/draw2-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Arts & Crafts ></h6>
+                    <p>Paint Realistic Watercolour and Botanicals - MAGNOLIAS</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$69.99</p>
+                      <p class="thumb_discount">$35</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+
           </div>
+
 
 
           <div class="row text-center">
@@ -312,15 +670,212 @@
         </div>
       </section>
 
-      <!-- <section class="thumbnails">
-        <h2></h2>
-        <p></p>
-        <div class="thumb">
+
+      <!-- Section for the Popular Courses -->
+      <section class="thumbnails">
+        <div class="container">
+          <div class="row text-center">
+            <div class="col-12">
+              <h2>Popular courses</h2>
+            </div>
+            <div class="col-12">
+              <p>Discover our most popular courses for self learning</p>
+            </div>
+          </div>
+
+          <div class="row py-5">
+            
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/ios10swift-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Development ></h6>
+                    <p>The Complete iOS 10 & Swift 3 Developer Course</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$199.99</p>
+                      <p class="thumb_discount">$100</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/css-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Design ></h6>
+                    <p>CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$129.99</p>
+                      <p class="thumb_discount">$65</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+            
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/webdesign-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Development ></h6>
+                    <p>Web Design for Beginners: Real World Coding in HTML & CSS</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$129.99</p>
+                      <p class="thumb_discount">$65</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+            
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/digitalcolor-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Google ></h6>
+                    <p>Digitally Painting Light and Color: Amateur to Master</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$129.99</p>
+                      <p class="thumb_discount">$65</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+            
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/draw1-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Arts & Crafts ></h6>
+                    <p>Become an Arabic Calligraphy Artist from Scratch</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$129.99</p>
+                      <p class="thumb_discount">$65</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+            
+            <div class="col-2">
+              <div class="thumb">
+                <div class="thumb_img">
+                  <img src="../assets/images/thumbnails/ninja-544x322.jpg" alt="Swift3">
+                </div>
+                <div class="thumb_text">
+                  <div class="thumb_text_top">
+                    <h6>Google ></h6>
+                    <p>Google Searching Ninja!</p>
+                  </div>
+                  
+                  <hr>
+
+                  <div class="thumb_text_bot">
+                    <div class="thumb_stars">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/starfull.svg" alt="star">
+                      <img src="../assets/images/icons-logos/staremptyl.svg" alt="star">
+                    </div>
+                    <div>
+                      <p class="thumb_price">$129.99</p>
+                      <p class="thumb_discount">$65</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+            </div>
+          </div>
+
+          <div class="row py-3 text-center">
+            <div class="col-12">
+              <button class="my_btn_arrow"><i class="fas fa-chevron-left"></i></button>
+              <button class="my_btn_arrow"><i class="fas fa-chevron-right"></i></button>
+            </div>
+          </div>
 
         </div>
-        <button></button>
 
-      </section> -->
+      </section>
 
       <!-- Section for the two Plan offerts -->
       <section class="plans">
@@ -416,6 +971,17 @@ p {
 .my_btn-primary:hover {
   background-color: #46c197;
 }
+.my_btn_arrow {
+  padding: 10px 20px;
+  background-color: $white;
+  color:$grey;
+  border: 3px solid $grey;
+  font-size: 1.3rem;
+}
+.my_btn_arrow:hover {
+  background-color: $ebony-clay;
+}
+
 .jumbotron {
   padding: 130px 0;
 }
@@ -485,7 +1051,7 @@ p {
 }
 
 .thumbnails {
-  padding: 100px 0;
+  padding: 60px 0;
 }
 
 .thumb {
