@@ -22,7 +22,7 @@ export default {
                 {id: 'es'   ,   name: 'Spanish'},
                 {id: 'ru'   ,   name: 'Russian'},
                 {id: 'cn'   ,   name: 'Chinese'},
-                {id: 'fr'   ,   name: 'FSrench'},
+                {id: 'fr'   ,   name: 'French'},
             ],
 
             // v-model linked on select
@@ -34,11 +34,13 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
+@import '../../style/variables.scss';
 
     select {
         background-color: none;
         border: none;
+        color: $venus;
         
     }
 </style>
