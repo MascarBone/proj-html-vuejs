@@ -5,11 +5,11 @@
       <section class="top-nav mb-5">
         <nav class="container">
           <ul class="row justify-content-center py-3">
-            <li class="col-auto">Business</li>
-            <li class="col-auto">Design</li>
-            <li class="col-auto">Development</li>
-            <li class="col-auto">Lifestyle</li>
-            <li class="col-auto">Office Productivity</li>
+            <li class="col-auto"><a href=""><i class="fas fa-chart-line me-1"></i>Business</a></li>
+            <li class="col-auto"><a href=""><i class="fas fa-palette me-1"></i>Design</a></li>
+            <li class="col-auto"><a href=""><i class="fas fa-cog me-1"></i>Development</a></li>
+            <li class="col-auto"><a href=""><i class="far fa-smile me-1"></i>Lifestyle</a></li>
+            <li class="col-auto"><a href=""><i class="far fa-folder-open me-1"></i>Office Productivity</a></li>
           </ul>
         </nav>
       </section>
@@ -958,6 +958,13 @@ h4 {
 p {
     font-size: 1.2rem;
 }
+nav {
+  
+  a {
+    font-size: 1.2rem;
+    text-decoration: none;
+  }
+}
 
 .my_btn-primary {
   background-color: $amaranth;
@@ -988,7 +995,10 @@ p {
 
 .top-nav {
   background-color: $ebony-clay;
-  color: $white;
+
+  * {
+    color: $white;
+  }
 }
 
 .bg-color-amaranth{
@@ -1094,10 +1104,9 @@ p {
   border-radius: 50px;
 
   a {
-    font-size: 1.2rem;
-    text-decoration: none;
     color: grey;
   }
+
 }
 .recent-courses-box.selected {
   background-color: $grey;
